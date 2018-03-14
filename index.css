@@ -1,0 +1,32 @@
+﻿body {
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    padding-top: 0px;
+}
+
+.nav {
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+
+.card-img-right {
+    border-radius: 0 3px 3px 0;
+}
+
+
+.card-columns {
+  @include media-breakpoint-only(lg) {
+    column-count: 4;
+  }
+  @include media-breakpoint-only(xl) {
+    column-count: 5;
+  }
+}
+
+footer {
+    background-color:ghostwhite;
+    color: #aaa;
+    padding: 20px;
+    text-align: center;
+}
+

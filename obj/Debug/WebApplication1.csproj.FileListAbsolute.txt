@@ -1,0 +1,35 @@
+C:\Users\Anafo\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Anafo\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Anafo\Desktop\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Anafo\Desktop\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Anafo\Desktop\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Anafo\Desktop\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Anafo\Desktop\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Anafo\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Anafo\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Anafo\Desktop\Estagio todo\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Anafo\Desktop\Estagio todo\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Anafo\Desktop\Estagio todo\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Anafo\Desktop\Estagio todo\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Anafo\Desktop\Estagio todo\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Anafo\Desktop\Estagio todo\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Anafo\Desktop\Estagio todo\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Anafo\Desktop\Estagio todo\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Anafo\Desktop\Estagio todo\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+F:\PC\Estagio todo\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+F:\PC\Estagio todo\WebApplication1\WebApplication1\bin\WebApplication1.dll
+F:\PC\Estagio todo\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+F:\PC\Estagio todo\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\PC\Estagio todo\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\PC\Estagio todo\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+F:\PC\Estagio todo\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+F:\PC\Estagio todo\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+F:\PC\Estagio todo\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\PC\Estagio todo\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+E:\PC\Estagio todo\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\PC\Estagio todo\WebApplication1\WebApplication1\bin\WebApplication1.dll
+E:\PC\Estagio todo\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+E:\PC\Estagio todo\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\PC\Estagio todo\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\PC\Estagio todo\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+E:\PC\Estagio todo\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
