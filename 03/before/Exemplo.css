@@ -1,0 +1,11 @@
+﻿body {
+     position: relative;
+     padding-top:120px;
+}
+
+.navbar {
+    margin-bottom: 0px;
+    padding: 30px 15px;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+}

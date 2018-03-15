@@ -78,8 +78,8 @@
     <Content Include="03\Jumbotron\Jumbotron.css" />
     <Content Include="03\Jumbotron\Jumbotron.html" />
     <Content Include="03\Jumbotron\Jumbotron.js" />
-    <Content Include="03\Site1.css" />
-    <Content Include="03\Site1.html" />
+    <Content Include="04\Site1\SITE1.css" />
+    <Content Include="04\Site1\SITE1.html" />
     <Content Include="Content\animate.css" />
     <Content Include="Content\fontawesome-all.css" />
     <Content Include="Content\fontawesome-all.min.css" />
@@ -89,10 +89,8 @@
     <Content Include="Content\font\nano_icon_font3.woff" />
     <None Include="packages.config" />
     <Content Include="..\..\index.v1.html" />
-    <Content Include="03\after\appV2.css" />
     <Content Include="03\after\ImagemVideo.css" />
     <Content Include="03\after\ImagemVideo.html" />
-    <Content Include="03\after\INDEXV2.html" />
     <Content Include="03\after\scrolling.js" />
     <Content Include="app.css" />
     <Content Include="Content\fontawesome.min.css" />
